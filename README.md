@@ -1,6 +1,6 @@
 ### Olá, Sou Willyan Pfutze!🖐🏻
 
-- 🔭  Atualmente estou  procurando oportunidade front-end<br>
+- 🔭  Atualmente estou  procurando oportunidade na Área de tecnologia<br>
 - 🌱 I’m currently learning  react<br>
 - 👨🏻‍🎓  Neste ano de2023, estou concluíndo meu tecnólogo em Análise e Desenvolvimento de Sistemas
 
